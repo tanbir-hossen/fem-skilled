@@ -37,6 +37,7 @@ img {
 
 p {
     color: var(--color-gray);
-    line-height: 1..5; 
+    line-height: 1.5;
+    max-width: 35ch; 
 }
 
