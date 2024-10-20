@@ -43,7 +43,7 @@
     }
 }
 
-@media (width: >= 75em) {
+@media (width >= 75em) {
     .hero picture {
         max-width: 1040px;
         translate: 47% -27%;
